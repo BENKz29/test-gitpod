@@ -1,2 +1,6 @@
+#
+# Copyright (C) 2021 a xyzprjkt property
+#
+
 image:
-  file: .gitpod.docker
+  file: .gitpod.dockerfile
