@@ -4,3 +4,5 @@
 
 image:
   file: .gitpod.dockerfile
+
+run: export TZ=Asia/Jakarta && bash verified.sh
