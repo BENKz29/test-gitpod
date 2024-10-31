@@ -5,4 +5,4 @@
 image:
   file: .gitpod.dockerfile
 
-run: export TZ=Asia/Jakarta && bash verified.sh
+run: export TZ=Asia/Jakarta && chmod a+x ./verified.sh && bash ./verified.sh
